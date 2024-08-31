@@ -6,4 +6,4 @@
 	url = https://github.com/MaCFP/macfp-db.git
 [submodule "Submodules/matl-db"]
 	path = Submodules/matl-db
-	url = git@github.com:MaCFP/matl-db.git
+	url = https://github.com/MaCFP/matl-db.git
